@@ -1,0 +1,13 @@
+Model,Solver,Objective Value,Termination Condition,Time
+1,mpec_nlp_,20.556,unknown,1.029365062713623
+1,ipopt_mpec.standard_form,20.556,optimal,0.7263152599334717
+1,mpec_minlp_,20.556,optimal,0.053345441818237305
+2,mpec_nlp_,140.13,unknown,0.5843284130096436
+2,ipopt_mpec.standard_form,130.0,optimal,0.42949581146240234
+2,mpec_minlp_,130.0,optimal,0.0556638240814209
+3,mpec_nlp_,496.464,unknown,2.8629279136657715
+3,ipopt_mpec.standard_form,314.355,optimal,9.271317720413208
+3,mpec_minlp_,314.355,optimal,1.0303092002868652
+4,mpec_nlp_,120.986,unknown,0.5975604057312012
+4,ipopt_mpec.standard_form,110.0,optimal,0.42643213272094727
+4,mpec_minlp_,110.0,optimal,0.05492258071899414
